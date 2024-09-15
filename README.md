@@ -1,2 +1,4 @@
-# PrepCourseHenry
-Este es un repositorio del modulo 2 del curso de Henry
+JAir Alí Vargas
+
+Este proyecto es una prueba de como clonar un repositorio
+desde github y modificarlo de manera local
